@@ -7,4 +7,4 @@
 - [LiveData and ViewModel](https://developer.android.com/topic/libraries/architecture/)
 - [Databinding](https://developer.android.com/topic/libraries/data-binding/)
 
-<img src="app.gif" width="40%">
+<img src="img.gif" width="40%">
